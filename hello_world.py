@@ -1,1 +1,2 @@
-print('Hello world!')
+greetItems = ['Hello','world!']
+print(" ".join(greetItems))
